@@ -142,7 +142,7 @@ PRODUCT_PACKAGES += \
     VoicePlus \
     VoiceDialer \
     SoundRecorder \
-    Basic \   
+    Basic \
     libemoji
 
 # Screen recorder
