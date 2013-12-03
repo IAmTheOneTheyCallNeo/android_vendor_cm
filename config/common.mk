@@ -142,8 +142,13 @@ PRODUCT_PACKAGES += \
     VoicePlus \
     VoiceDialer \
     SoundRecorder \
-    Basic \
+    Basic \   
     libemoji
+
+# Screen recorder
+PRODUCT_PACKAGES += \
+    ScreenRecorder \
+    libscreenrecorder
 
 # Custom CM packages
     #Trebuchet \
